@@ -4,7 +4,7 @@ import './Inventory.css';
 const Inventory = () => {
     return (
         <div>
-           inventory 
+           <h4>T hisi si inverntplkfldk</h4> 
         </div>
     );
 };
